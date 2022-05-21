@@ -12,4 +12,4 @@ The installation takes place in 2 stages:
 2. Use bundle to load all the gems
 
 > cd ~/middleman-ruby-3.1
-  bundle
+> bundle
