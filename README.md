@@ -1,4 +1,4 @@
-# middleman-ruby-3.1
+# Middleman with Ruby 3.1
 Middleman remains one of the best static website generators available.  Installing it with the latest version of Ruby can be a bit confusing, here is a stable version that works great taking into account the evolutions of the Ruby 3.1's incompatible changes to its YAML module (Psych 4).
 
 ## Clone repo & bundle it!
